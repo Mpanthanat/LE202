@@ -32,8 +32,8 @@
     - microcontroller ESP01 ที่เขียนโปรแกรมในexample 3 มาต่อกับrelayและนำไปต่อกับแหล่งจ่ายไฟ เช่น พาวเวอร์แบงค์
     เมื่อต่อจะได้ยินเสียงการทำงานและแสงไฟสลับ on off
  - **Run example 4**
-    - set port 0 เป็นinput prot 2 เป็นoutput upload program input นำสายสีขาวที่เป็น port 0 จิ้มไปที่ 0 LED สว่างโดยโปรแกรมจะอ่านค่า read 0 แต่ถ้าไม่ได้จิ้มจะอ่านค่า read 1 นำsensor มาต่อจะเห็นว่าเมื่อเอามือบังแสง LED จะดับโปรแกรมอ่านค่า read 1 แต่ถ้าเอามือออกจะอ่านค่า read 0 ไฟสว่าง
+    - set port 0 เป็นinput port 2 เป็นoutput upload program input นำสายสีขาวที่เป็น port 0 จิ้มไปที่ 0 LED สว่างโดยโปรแกรมจะอ่านค่า read 0 แต่ถ้าไม่ได้จิ้มจะอ่านค่า read 1 นำsensor มาต่อจะเห็นว่าเมื่อเอามือบังแสง LED จะดับโปรแกรมอ่านค่า read 1 แต่ถ้าเอามือออกจะอ่านค่า read 0 ไฟสว่าง
  - **Run wifi**
     - upload program สร้างwebserverผ่านwifi เสียบ microcontroller ESP01 ทดสอบโดยเปิด web browser
  - **Run wiri AP**
-    - upload program สร้างwifiขึ้นมาเอง ทเสอบโดยการใช้โทรศัพท์ค้นหาwifi
+    - upload program สร้างwifiขึ้นมาเอง ทดสอบโดยการใช้โทรศัพท์ค้นหาwifi
