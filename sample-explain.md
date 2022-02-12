@@ -31,4 +31,4 @@ upload program สร้างwebserverผ่านwifi เสียบ microcon
 
 ![image](https://user-images.githubusercontent.com/98943460/153704873-2a680be9-0b61-475b-9e4c-cb4b7459a733.png)
 
-upload program สร้างwebserverผ่านwifi เสียบ microcontroller ESP01 ทดสอบโดยเปิด web browser
+upload program สร้างwifiขึ้นมาเอง ทดสอบโดยการใช้โทรศัพท์ค้นหาwifi
