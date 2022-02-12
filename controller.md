@@ -11,7 +11,7 @@ Link : [https://www.arduitronics.com/product/2850/sipeed-maixduino-for-risc-v-ai
 
 หน่วยความทรงจำ :8MB/16MB/128MB
 
-input and output : USB Type-C , DC-DC step-down circuit:support 6-12V input;Provide 5V 1.2A output , DAC+PA: , TM8211:16 bit dynamic range;Low harmonic distortion , NS4150:3W output power;Up to 90% efficiency;
+port : USB Type-C , DC-DC step-down circuit:support 6-12V input;Provide 5V 1.2A output , DAC+PA: , TM8211:16 bit dynamic range;Low harmonic distortion , NS4150:3W output power;Up to 90% efficiency;
 
 ## NUCLEO-F411RE Nucleo-64 Development Board
 ![NUCLEO-F411RE Nucleo-64 Development Board](https://www.st.com/bin/ecommerce/api/image.PF260320.en.feature-description-include-personalized-no-cpn-large.jpg)
