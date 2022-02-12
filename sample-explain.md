@@ -42,7 +42,7 @@
 ## การทดลองที่ 6 เรื่อง การเขียนโปรแกรมสร้างไวไฟแอคเซสพอยต์ (Wifi AP)
 
 ![image](https://user-images.githubusercontent.com/98943460/153704873-2a680be9-0b61-475b-9e4c-cb4b7459a733.png)
-1. ตั้งชื่อเครือข่าย wifi และ รหัสผ่าน \
+1. ตั้งชื่อเครือข่าย wifi และ รหัสผ่าน 
 2. กำหนด local IP และ gateway IP และ subnet IP
 3. เปิดwebserver ที่ port 80
 4. set up setความเร็วอยู่ที่ 115200
