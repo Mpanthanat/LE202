@@ -16,6 +16,7 @@ input and output : USB Type-C , DC-DC step-down circuit:support 6-12V input;Prov
 ## NUCLEO-F411RE Nucleo-64 Development Board
 ![NUCLEO-F411RE Nucleo-64 Development Board](https://www.st.com/bin/ecommerce/api/image.PF260320.en.feature-description-include-personalized-no-cpn-large.jpg)
 ชื่อ : NUCLEO-F411RE Nucleo-64 Development Board
+
 ราคา : 813.57 บาท
 
 Link : [https://th.rs-online.com/web/p/microcontroller-development-tools/8224052](https://th.rs-online.com/web/p/microcontroller-development-tools/8224052)
