@@ -47,5 +47,5 @@
 3. เปิดwebserver ที่ port 80
 4. set up setความเร็วอยู่ที่ 115200
 5. setup ตั้งค่าaccess point
-6. เมื่อไม่พบให้เเสดงผล not foound
+6. เมื่อไม่พบให้เเสดงผล not found
 7. ถ้าพบให้เริ่มต้นใช้งาน โดยวนloop
